@@ -17,6 +17,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0876-middle-of-the-linked-list](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -41,4 +42,5 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
