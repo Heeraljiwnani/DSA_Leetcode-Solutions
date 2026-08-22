@@ -63,4 +63,16 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
