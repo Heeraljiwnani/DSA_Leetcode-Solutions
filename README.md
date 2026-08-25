@@ -69,6 +69,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0796-rotate-string](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -83,4 +84,8 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
