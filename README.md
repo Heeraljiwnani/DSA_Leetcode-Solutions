@@ -26,6 +26,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [1903-largest-odd-number-in-string](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
@@ -39,6 +40,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 ## Binary Search
 |  |
@@ -68,6 +70,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
