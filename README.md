@@ -14,6 +14,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0049-group-anagrams](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -121,6 +122,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | ------- |
 | [0047-permutations-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -158,4 +160,8 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0055-jump-game) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
