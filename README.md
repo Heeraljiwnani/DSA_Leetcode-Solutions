@@ -7,6 +7,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0054-spiral-matrix) |
@@ -33,6 +34,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -103,6 +105,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -128,4 +131,16 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
