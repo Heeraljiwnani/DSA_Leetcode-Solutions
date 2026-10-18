@@ -35,6 +35,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | ------- |
 | [0043-multiply-strings](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [1903-largest-odd-number-in-string](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
@@ -53,6 +54,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0043-multiply-strings](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0032-longest-valid-parentheses](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -173,4 +176,8 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
