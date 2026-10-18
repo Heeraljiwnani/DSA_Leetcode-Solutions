@@ -94,6 +94,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0049-group-anagrams](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0796-rotate-string) |
@@ -129,6 +130,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0049-group-anagrams](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
@@ -155,6 +157,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0187-repeated-dna-sequences](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -186,9 +189,26 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0187-repeated-dna-sequences](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
