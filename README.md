@@ -29,6 +29,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | ------- |
 | [0031-next-permutation](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Math
@@ -72,6 +73,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -126,6 +128,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0037-sudoku-solver](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
@@ -187,4 +190,5 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
