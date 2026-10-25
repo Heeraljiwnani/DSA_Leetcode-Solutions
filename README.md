@@ -40,6 +40,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | ------- |
 | [0043-multiply-strings](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0202-happy-number) |
@@ -183,6 +184,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0062-unique-paths) |
 ## Quicksort
 |  |
 | ------- |
@@ -218,4 +220,8 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
