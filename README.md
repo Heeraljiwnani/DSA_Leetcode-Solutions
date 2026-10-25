@@ -29,6 +29,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -75,6 +76,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
