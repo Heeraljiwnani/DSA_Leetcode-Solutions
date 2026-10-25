@@ -19,6 +19,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0059-spiral-matrix-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -53,6 +54,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0054-spiral-matrix](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Simulation
@@ -224,4 +226,16 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
