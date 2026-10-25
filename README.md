@@ -18,6 +18,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0057-insert-interval](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -173,6 +174,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0037-sudoku-solver](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0078-subsets) |
 ## Algorithm X
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 ## Floyd's Cycle Finding Algorithm
 |  |
