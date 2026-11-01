@@ -102,6 +102,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0043-multiply-strings](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -115,6 +116,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [1021-remove-outermost-parentheses](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
