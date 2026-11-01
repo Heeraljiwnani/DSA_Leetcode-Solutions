@@ -243,11 +243,13 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
@@ -270,9 +272,11 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
