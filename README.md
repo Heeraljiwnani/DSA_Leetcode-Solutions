@@ -176,6 +176,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0037-sudoku-solver](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0078-subsets) |
 ## Algorithm X
 |  |
