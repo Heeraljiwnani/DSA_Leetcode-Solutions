@@ -90,6 +90,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
