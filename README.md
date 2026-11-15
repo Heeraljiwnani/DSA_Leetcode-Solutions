@@ -46,6 +46,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0067-add-binary](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0202-happy-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
@@ -197,6 +198,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0055-jump-game](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 ## Quicksort
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
@@ -279,7 +282,12 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
