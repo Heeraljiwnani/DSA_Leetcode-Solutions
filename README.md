@@ -42,6 +42,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | ------- |
 | [0043-multiply-strings](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0069-sqrtx) |
@@ -91,6 +92,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
