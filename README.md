@@ -26,6 +26,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0139-word-break](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -228,6 +229,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0124-binary-tree-maximum-path-sum](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0198-house-robber) |
 ## Quicksort
 |  |
 | ------- |
