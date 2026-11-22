@@ -23,6 +23,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0074-search-a-2d-matrix](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0200-number-of-islands) |
@@ -121,6 +122,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0068-text-justification](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -160,6 +162,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
@@ -223,6 +226,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0096-unique-binary-search-trees](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0139-word-break) |
 ## Quicksort
 |  |
 | ------- |
@@ -289,11 +293,13 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0139-word-break) |
 ## Tree
 |  |
 | ------- |
@@ -326,4 +332,8 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
