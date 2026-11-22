@@ -122,6 +122,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0071-simplify-path](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -163,6 +164,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0149-max-points-on-a-line](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
