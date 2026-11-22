@@ -225,6 +225,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0070-climbing-stairs](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0120-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0139-word-break) |
 ## Quicksort
@@ -275,6 +276,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0100-same-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -308,6 +310,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0100-same-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0100-same-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -336,4 +340,8 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0139-word-break) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
