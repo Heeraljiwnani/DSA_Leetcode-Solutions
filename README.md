@@ -120,6 +120,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0067-add-binary](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [0131-palindrome-partitioning](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -201,6 +202,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0047-permutations-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0070-climbing-stairs](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Quicksort
 |  |
 | ------- |
