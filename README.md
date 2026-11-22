@@ -23,6 +23,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0074-search-a-2d-matrix](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0120-triangle) |
+| [0149-max-points-on-a-line](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -53,6 +54,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0069-sqrtx](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0202-happy-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
@@ -158,6 +160,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0049-group-anagrams](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -306,4 +309,16 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
