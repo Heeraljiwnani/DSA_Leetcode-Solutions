@@ -22,6 +22,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0068-text-justification](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0078-subsets) |
+| [0120-triangle](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -213,6 +214,7 @@ A collection of my LeetCode solutions written in C++, focused on improving probl
 | [0064-minimum-path-sum](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0120-triangle](https://github.com/Heeraljiwnani/DSA_Leetcode-Solutions/tree/master/0120-triangle) |
 ## Quicksort
 |  |
 | ------- |
